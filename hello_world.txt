@@ -1,1 +1,3 @@
 Hello World!
+I am editing this again to solidify my understanding of how git works.
+And now I am editing this in nano inside of vs code; how meta!
